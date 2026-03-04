@@ -14,13 +14,13 @@
 <table>
   <tr>
     <td width="55%" valign="top">
-      <h2>👋 Software Engineer in the Making</h2>
-      <p>I focus on building <b>robust, efficient systems</b> that solve real-world problems.</p>
+      <h2>👋 UPCOMING AI ML ENGINEER</h2>
+      <p>I focus on building <b>AI chatbots, efficient systems</b> that solve real-world problems.</p>
       <p>My passion lies in <b>Software Architecture, Backend Logic, and Algorithm Optimization.</b></p>
       <p>I strive to bridge the gap between complex requirements and <b>clean, maintainable code.</b></p>
       <br/>
-      <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/></a>
+      <a href="https://linkedin.com/in/nazmussakibsami/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+      <a href="https://github.com/dnsakibss"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/></a>
     </td>
     <td width="45%" align="center">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmJyZ3pueHlxamZ3Ym95bmZ4ZHp4ZHp4ZHp4ZHp4ZHp4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" style="border-radius: 10px;"/>
