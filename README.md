@@ -146,11 +146,11 @@ A project focused on applying **machine learning techniques** to solve real worl
 
 <p align="center">
 
-A **C# / .NET based application** designed to demonstrate strong understanding of object-oriented programming and backend logic.
+HOTEL MANAGEMENT SYSTEM A **JAVA based desktop application** designed to demonstrate strong understanding of object-oriented programming and backend logic.
 
 <br/>
 
-<a href="#"><b>View Repository</b></a>
+<a href="https://github.com/dnsakibss/HOTEL-MANAGEMENT-SYSTEM"><b>View Repository</b></a>
 
 </p>
 
