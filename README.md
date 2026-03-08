@@ -143,6 +143,29 @@ A project focused on applying **machine learning techniques** to solve real worl
 <img src="https://img.shields.io/badge/Focus-Desktop%20Application-blue"/>
 
 </div>
+<h3 align="center">🛠️ Software Engineering Project</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Field-Software%20Engineering-blue"/>
+<img src="https://img.shields.io/badge/Focus-System%20Design-success"/>
+<img src="https://img.shields.io/badge/Stage-Project%20Simulation-orange"/>
+
+</div>
+
+<p align="center">
+
+PROJECT SIMULATOR – A **Software Engineering academic project** focused on demonstrating the **software development lifecycle, project setup, documentation, and testing workflow**.
+
+<br/>
+
+This project highlights understanding of **software design principles, project structure, and collaborative development practices**.
+
+<br/>
+
+<a href="https://github.com/dnsakibss/Project-Simulator"><b>View Repository</b></a>
+
+</p>
 
 <p align="center">
 
