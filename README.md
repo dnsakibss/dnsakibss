@@ -135,23 +135,24 @@ A project focused on applying **machine learning techniques** to solve real worl
 
 <td width="50%">
 
-<h3 align="center">⚙️ .NET Application</h3>
+<h3 align="center">☕ Java Application</h3>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Tech-CSharp-blue"/>
-<img src="https://img.shields.io/badge/Focus-Backend-critical"/>
+<img src="https://img.shields.io/badge/Tech-Java-orange"/>
+<img src="https://img.shields.io/badge/Focus-Desktop%20Application-blue"/>
 
 </div>
 
 <p align="center">
 
-HOTEL MANAGEMENT SYSTEM A **JAVA based desktop application** designed to demonstrate strong understanding of object-oriented programming and backend logic.
+HOTEL MANAGEMENT SYSTEM – A **Java-based desktop application** designed to demonstrate strong understanding of **Object-Oriented Programming (OOP)**, backend logic, and application structure.
 
 <br/>
 
 <a href="https://github.com/dnsakibss/HOTEL-MANAGEMENT-SYSTEM"><b>View Repository</b></a>
 
+</p>
 </p>
 
 </td>
