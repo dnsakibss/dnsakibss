@@ -30,7 +30,7 @@ My goal is to combine **software engineering principles with AI technologies** t
 
 <br/>
 
-<a href="[linkedin.com/in/nazmussakibsami/](https://www.linkedin.com/in/nazmussakibsami/)">
+<a href="https://www.linkedin.com/in/nazmussakibsami/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
