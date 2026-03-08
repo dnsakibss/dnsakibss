@@ -7,7 +7,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=5CE1E6&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Backend+%26+.NET+Developer;Competitive+Programmer;Building+Efficient+Software+Systems" alt="Typing SVG" />
   </a>
 </div>
-
 <br/>
 
 <div align="center">
