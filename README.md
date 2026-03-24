@@ -1,4 +1,4 @@
-"<div align="center">
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=220&section=header&text=Nazmus%20Sakib%20Sami&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20ML%20Engineer%20•%20Software%20Developer%20•%20Problem%20Solver&descAlignY=60&descSize=20" width="100%"/>
 </div>
 
@@ -229,4 +229,4 @@ A project focused on applying **machine learning techniques** to solve real worl
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=100&section=footer"/>
-</div>"
+</div>
