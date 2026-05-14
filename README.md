@@ -23,8 +23,8 @@ I am a **Computer Science and Engineering student** focused on becoming an **AI 
 
 My work focuses on:
 
-• **Artificial Intelligence & Machine Learning**  
-• **Backend Development & System Design**  
+• **Artificial Intelligence & Machine Learning**
+• **Backend Development & System Design**
 • **Algorithm Optimization & Problem Solving**
 
 I enjoy building **efficient systems, scalable applications, and intelligent software solutions**.
@@ -111,23 +111,6 @@ Algorithms & Competitive Programming
 
 <td width="50%">
 
-<h3 align="center">🤖 AI Based Project</h3>
-
-<div align="center">
-<img src="https://img.shields.io/badge/Tech-Python-blue"/>
-<img src="https://img.shields.io/badge/Focus-MachineLearning-success"/>
-</div>
-
-<p align="center">
-A project focused on applying **machine learning techniques** to solve real world problems and build intelligent decision systems.
-<br/><br/>
-<a href="#"><b>View Repository</b></a>
-</p>
-
-</td>
-
-<td width="50%">
-
 <h3 align="center">☕ Java Application</h3>
 
 <div align="center">
@@ -136,31 +119,9 @@ A project focused on applying **machine learning techniques** to solve real worl
 </div>
 
 <p align="center">
-**HOTEL MANAGEMENT SYSTEM** – A **Java-based desktop application** demonstrating strong understanding of **Object-Oriented Programming (OOP)** and application logic.
+<b>HOTEL MANAGEMENT SYSTEM</b> – A <b>Java-based desktop application</b> demonstrating strong understanding of <b>Object-Oriented Programming (OOP)</b> and application logic.
 <br/><br/>
 <a href="https://github.com/dnsakibss/HOTEL-MANAGEMENT-SYSTEM"><b>View Repository</b></a>
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<h3 align="center">⚙️ C# .NET Application</h3>
-
-<div align="center">
-<img src="https://img.shields.io/badge/Tech-CSharp-blue"/>
-<img src="https://img.shields.io/badge/Framework-.NET-purple"/>
-<img src="https://img.shields.io/badge/Type-Desktop%20Application-success"/>
-</div>
-
-<p align="center">
-**CivicLens** – A **C# .NET desktop application** designed to manage administrative workflows, user approvals, and system data using structured backend logic.
-<br/><br/>
-<a href="https://github.com/dnsakibss/CivicLens"><b>View Repository</b></a>
 </p>
 
 </td>
@@ -176,10 +137,36 @@ A project focused on applying **machine learning techniques** to solve real worl
 </div>
 
 <p align="center">
-**Project Simulator** – A **Software Engineering academic project** demonstrating the **software development lifecycle, documentation, and testing workflow**.
+<b>Project Simulator</b> – A <b>Software Engineering academic project</b> demonstrating the <b>software development lifecycle, documentation, and testing workflow</b>.
 <br/><br/>
 <a href="https://github.com/dnsakibss/Project-Simulator"><b>View Repository</b></a>
 </p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🎮 Computer Graphics Project</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Tech-C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Graphics-OpenGL-5586A4?style=flat&logo=opengl&logoColor=white"/>
+<img src="https://img.shields.io/badge/Library-GLUT-orange?style=flat"/>
+</div>
+
+<p align="center">
+<b>4 Scene Transportation Environment</b> – A real-time animated 2D simulation built with <b>C++ and OpenGL (GLUT)</b> featuring four interactive scenes: <b>Airport, Train, Boat</b> and <b>Bus</b>. Includes dynamic weather (rain/snow), day/night mode, and full keyboard controls.
+<br/><br/>
+<a href="https://github.com/dnsakibss/4_SCENE_OF_TRANSPORTATION_ENVIRONMENT_COMPUTER_GRAPHICS"><b>View Repository</b></a>
+</p>
+
+</td>
+
+<td width="50%">
 
 </td>
 
