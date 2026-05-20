@@ -168,6 +168,46 @@ Algorithms & Competitive Programming
 
 <td width="50%">
 
+<h3 align="center">📚 Web Technology Project</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Tech-PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/UI-Bootstrap%205-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+</div>
+
+<p align="center">
+<b>LIBRARY MANAGEMENT SYSTEM</b> – A <b>full-stack web application</b> built with <b>PHP & MySQL</b> following an MVC architecture. Supports multi-branch operations with role-based dashboards for <b>Admin, Branch Manager, Librarian, and Member</b>. Features include book borrowing, reservations, fine management, and inter-branch transfers.
+<br/><br/>
+<a href="https://github.com/dnsakibss/LIBRARY-MANAGEMENT-SYSTEM-Web_Tech_Project"><b>View Repository</b></a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🚔 Crime Management System</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Tech-C%23-239120?style=flat&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Database-SSMS%20%2F%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-Desktop%20Application-blue?style=flat"/>
+</div>
+
+<p align="center">
+<b>CivicLens 2.0</b> – A <b>Crime-based Management System</b> built with <b>C# and SQL Server (SSMS)</b>. Designed to manage and track crime records, cases, and related data through a structured desktop application with a robust relational database backend.
+<br/><br/>
+<a href="https://github.com/dnsakibss/CivicLens2.0"><b>View Repository</b></a>
+</p>
+
+</td>
+
+<td width="50%">
+
 </td>
 
 </tr>
