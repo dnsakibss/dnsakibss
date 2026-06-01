@@ -240,15 +240,15 @@ Algorithms & Competitive Programming
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dnsakibss&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dnsakibss&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&rank_icon=github" alt="Nazmus Sakib's GitHub Stats"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=dnsakibss&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=dnsakibss&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dnsakibss&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dnsakibss&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117" width="100%" alt="Contribution Graph"/>
 
 </div>
 
