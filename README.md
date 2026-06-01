@@ -240,15 +240,19 @@ Algorithms & Competitive Programming
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dnsakibss&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&rank_icon=github" alt="Nazmus Sakib's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dnsakibss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Nazmus Sakib's GitHub Stats"/>
 
-<br/>
+&nbsp;&nbsp;
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnsakibss&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
+
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=dnsakibss&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dnsakibss&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dnsakibss&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 
 </div>
 
