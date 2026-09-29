@@ -50,7 +50,7 @@ My goal is to combine solid software engineering with AI to ship useful, efficie
 <h2 align="center">💻 Projects</h2>
 
 <div align="center">
-  <img src="./projects.svg" width="100%" alt="Hotel Management System, Project Simulator, 4-Scene Transportation, Library Management System, CivicLens 2.0." />
+  <img src="./projects.svg" width="100%" alt="Hotel Management System, Project Simulator, 4-Scene Transportation, Library Management System, CivicLens, CivicLens 2.0." />
 </div>
 
 <p align="center">
@@ -58,6 +58,7 @@ My goal is to combine solid software engineering with AI to ship useful, efficie
   <a href="https://github.com/dnsakibss/Project-Simulator"><b>Project Simulator</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/dnsakibss/4_SCENE_OF_TRANSPORTATION_ENVIRONMENT_COMPUTER_GRAPHICS"><b>4-Scene Transportation</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/dnsakibss/LIBRARY-MANAGEMENT-SYSTEM-Web_Tech_Project"><b>Library Management</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/dnsakibss/CivicLens"><b>CivicLens</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/dnsakibss/CivicLens2.0"><b>CivicLens 2.0</b></a>
 </p>
 
@@ -67,6 +68,14 @@ My goal is to combine solid software engineering with AI to ship useful, efficie
 
 <div align="center">
   <img src="./academic.svg" width="100%" alt="B.Sc. in CSE at AIUB, in progress. Currently focused on AI/ML and backend development." />
+</div>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dnsakibss/dnsakibss/output/github-snake-dark.svg" width="100%" alt="Snake eating my contribution graph" />
 </div>
 
 ---
