@@ -50,7 +50,7 @@ My goal is to combine solid software engineering with AI to ship useful, efficie
 <h2 align="center">💻 Projects</h2>
 
 <div align="center">
-  <img src="./projects.svg" width="100%" alt="Hotel Management System, Project Simulator, 4-Scene Transportation, Library Management System, CivicLens, CivicLens 2.0." />
+  <img src="./projects.svg" width="100%" alt="Hotel Management System, Project Simulator, 4-Scene Transportation, Library Management System, CivicLens, CivicLens 2.0, Wearable Fatigue Detection." />
 </div>
 
 <p align="center">
@@ -59,7 +59,8 @@ My goal is to combine solid software engineering with AI to ship useful, efficie
   <a href="https://github.com/dnsakibss/4_SCENE_OF_TRANSPORTATION_ENVIRONMENT_COMPUTER_GRAPHICS"><b>4-Scene Transportation</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/dnsakibss/LIBRARY-MANAGEMENT-SYSTEM-Web_Tech_Project"><b>Library Management</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/dnsakibss/CivicLens"><b>CivicLens</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/dnsakibss/CivicLens2.0"><b>CivicLens 2.0</b></a>
+  <a href="https://github.com/dnsakibss/CivicLens2.0"><b>CivicLens 2.0</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/dnsakibss/wearable-fatigue-detection"><b>Wearable Fatigue Detection</b></a>
 </p>
 
 ---
