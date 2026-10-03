@@ -90,9 +90,7 @@ My goal is to combine solid software engineering with AI to ship useful, efficie
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dnsakibss&theme=tokyonight" alt="Repos Per Language"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dnsakibss&theme=tokyonight&utcOffset=6" alt="Productive Time"/>
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=dnsakibss&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dnsakibss&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117" width="100%" alt="Contribution Graph"/>
+   <img src="https://streak-stats.demolab.com/?user=dnsakibss&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <br/>
